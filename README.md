@@ -1,5 +1,7 @@
 # PapyriBot – ULMFit-based Ancient Greek Text Generator
 
+## The complete codebase, along with the technologies used, is available by request — feel free to contact me for access and collaboration opportunities.
+
 ## Overview
 
 This project involved the design and training of a language model from scratch using the ULMFit (Universal Language Model Fine-tuning) architecture, following the methodology developed by [Jeremy Howard](https://docs.fast.ai/tutorial.text.html). The objective was to generate plausible ancient Greek documentary text from a curated corpus of papyri. The project was developed collectively as one of the technical demonstrations presented by the Lab-HD during the Madrid Science Week (IFEMA), as part of the CSIC’s science communication activities.
